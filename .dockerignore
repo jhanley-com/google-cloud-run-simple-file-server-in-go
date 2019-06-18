@@ -1,0 +1,8 @@
+.dockerignore
+Dockerfile
+Dockerfile.local
+*.bak
+*.bat
+*.swp
+*.tmp
+*.txt
